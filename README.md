@@ -1,5 +1,5 @@
 # HCI-Final-Project-CAV's Furniture
-Live link : 
+Live link : https://rwijaya17.github.io/HCI-Final-Project-CAV-s-Furniture/
 Video Demo: https://drive.google.com/file/d/10wFstaFeUUovS6BqMWdRYFggWUXZd8wQ/view?usp=drivesdk
 
 **Class Name:** L1CC  
